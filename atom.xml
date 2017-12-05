@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-12-05T15:07:31.047Z</updated>
+  <updated>2017-12-05T16:08:35.792Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,19 +17,21 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>React (0): 环境设置</title>
-    <link href="http://yoursite.com/2017/12/05/React-0-%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/"/>
-    <id>http://yoursite.com/2017/12/05/React-0-环境配置/</id>
-    <published>2017-12-05T13:31:32.000Z</published>
-    <updated>2017-12-05T15:07:31.047Z</updated>
+    <title>React (0) node+npm+yarn安装，淘宝镜像，proxy设置</title>
+    <link href="http://yoursite.com/2017/12/05/React-0-node-npm-yarn/"/>
+    <id>http://yoursite.com/2017/12/05/React-0-node-npm-yarn/</id>
+    <published>2017-12-05T15:58:05.000Z</published>
+    <updated>2017-12-05T16:08:35.792Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="环境一览"><a href="#环境一览" class="headerlink" title="环境一览"></a>环境一览</h1>]]></content>
+    <content type="html"><![CDATA[<h1 id="环境一览"><a href="#环境一览" class="headerlink" title="环境一览"></a>环境一览</h1><pre><code>- node + npm- yarn</code></pre><h2 id="node-npm-安装"><a href="#node-npm-安装" class="headerlink" title="node + npm 安装"></a>node + npm 安装</h2><p>Node.js</p><blockquote><p>基于<a href="http://blog.csdn.net/xyqzki/article/details/45745507" target="_blank" rel="noopener">Chrome V8</a> 引擎的 JavaScript 运行环境<br><a href="https://baike.baidu.com/item/%E4%BA%8B%E4%BB%B6%E9%A9%B1%E5%8A%A8/9597519?fr=aladdin" target="_blank" rel="noopener">事件驱动</a>、<a href="http://cnodejs.org/topic/4f50dd9798766f5a610b808a" target="_blank" rel="noopener">非阻塞式 I/O</a> 的模型<br>附带<a href="https://www.cnblogs.com/mangoniki/p/5381820.html" target="_blank" rel="noopener">包管理器 npm</a></p></blockquote><p>node: <a href="https://nodejs.org/en/" target="_blank" rel="noopener">https://nodejs.org/en/</a><br>yarn : <a href="https://segmentfault.com/a/1190000009275735" target="_blank" rel="noopener">https://segmentfault.com/a/1190000009275735</a><br>npm 淘宝镜像： <a href="http://npm.taobao.org/" target="_blank" rel="noopener">http://npm.taobao.org/</a><br>yarn：更换下载源： <a href="http://www.bubuko.com/infodetail-1919297.html" target="_blank" rel="noopener">http://www.bubuko.com/infodetail-1919297.html</a></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;环境一览&quot;&gt;&lt;a href=&quot;#环境一览&quot; class=&quot;headerlink&quot; title=&quot;环境一览&quot;&gt;&lt;/a&gt;环境一览&lt;/h1&gt;
+        &lt;h1 id=&quot;环境一览&quot;&gt;&lt;a href=&quot;#环境一览&quot; class=&quot;headerlink&quot; title=&quot;环境一览&quot;&gt;&lt;/a&gt;环境一览&lt;/h1&gt;&lt;pre&gt;&lt;code&gt;- node + npm
+- yarn
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&quot;node-npm-安装&quot;&gt;
       
     
     </summary>
@@ -37,13 +39,13 @@
     
       <category term="前端" scheme="http://yoursite.com/tags/%E5%89%8D%E7%AB%AF/"/>
     
-      <category term="React" scheme="http://yoursite.com/tags/React/"/>
+      <category term="react" scheme="http://yoursite.com/tags/react/"/>
     
-      <category term="Node" scheme="http://yoursite.com/tags/Node/"/>
+      <category term="node" scheme="http://yoursite.com/tags/node/"/>
     
-      <category term="Npm" scheme="http://yoursite.com/tags/Npm/"/>
+      <category term="npm" scheme="http://yoursite.com/tags/npm/"/>
     
-      <category term="Yarn" scheme="http://yoursite.com/tags/Yarn/"/>
+      <category term="yarn" scheme="http://yoursite.com/tags/yarn/"/>
     
   </entry>
   
