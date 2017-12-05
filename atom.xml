@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-12-05T16:08:35.792Z</updated>
+  <updated>2017-12-05T16:19:14.909Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,17 +21,16 @@
     <link href="http://yoursite.com/2017/12/05/React-0-node-npm-yarn/"/>
     <id>http://yoursite.com/2017/12/05/React-0-node-npm-yarn/</id>
     <published>2017-12-05T15:58:05.000Z</published>
-    <updated>2017-12-05T16:08:35.792Z</updated>
+    <updated>2017-12-05T16:19:14.909Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="环境一览"><a href="#环境一览" class="headerlink" title="环境一览"></a>环境一览</h1><pre><code>- node + npm- yarn</code></pre><h2 id="node-npm-安装"><a href="#node-npm-安装" class="headerlink" title="node + npm 安装"></a>node + npm 安装</h2><p>Node.js</p><blockquote><p>基于<a href="http://blog.csdn.net/xyqzki/article/details/45745507" target="_blank" rel="noopener">Chrome V8</a> 引擎的 JavaScript 运行环境<br><a href="https://baike.baidu.com/item/%E4%BA%8B%E4%BB%B6%E9%A9%B1%E5%8A%A8/9597519?fr=aladdin" target="_blank" rel="noopener">事件驱动</a>、<a href="http://cnodejs.org/topic/4f50dd9798766f5a610b808a" target="_blank" rel="noopener">非阻塞式 I/O</a> 的模型<br>附带<a href="https://www.cnblogs.com/mangoniki/p/5381820.html" target="_blank" rel="noopener">包管理器 npm</a></p></blockquote><p>node: <a href="https://nodejs.org/en/" target="_blank" rel="noopener">https://nodejs.org/en/</a><br>yarn : <a href="https://segmentfault.com/a/1190000009275735" target="_blank" rel="noopener">https://segmentfault.com/a/1190000009275735</a><br>npm 淘宝镜像： <a href="http://npm.taobao.org/" target="_blank" rel="noopener">http://npm.taobao.org/</a><br>yarn：更换下载源： <a href="http://www.bubuko.com/infodetail-1919297.html" target="_blank" rel="noopener">http://www.bubuko.com/infodetail-1919297.html</a></p>]]></content>
+    <content type="html"><![CDATA[<p>在前端的世界里，node, npm, yarn可以说是撑起世界的世界树，而作为基石，学习需要三个过程：<br>1.了解<br>2.会安装，会用<br>3.会设置</p><h2 id="node-npm"><a href="#node-npm" class="headerlink" title="node + npm"></a>node + npm</h2><p>Node.js</p><blockquote><p>基于<a href="http://blog.csdn.net/xyqzki/article/details/45745507" target="_blank" rel="noopener">Chrome V8</a> 引擎的 JavaScript 运行环境<br><a href="https://baike.baidu.com/item/%E4%BA%8B%E4%BB%B6%E9%A9%B1%E5%8A%A8/9597519?fr=aladdin" target="_blank" rel="noopener">事件驱动</a>、<a href="http://cnodejs.org/topic/4f50dd9798766f5a610b808a" target="_blank" rel="noopener">非阻塞式 I/O</a> 的模型<br>附带<a href="https://www.cnblogs.com/mangoniki/p/5381820.html" target="_blank" rel="noopener">包管理器 npm</a></p></blockquote><h3 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h3><p>node: <a href="https://nodejs.org/en/" target="_blank" rel="noopener">https://nodejs.org/en/</a><br>yarn : <a href="https://segmentfault.com/a/1190000009275735" target="_blank" rel="noopener">https://segmentfault.com/a/1190000009275735</a><br>npm 淘宝镜像： <a href="http://npm.taobao.org/" target="_blank" rel="noopener">http://npm.taobao.org/</a><br>yarn：更换下载源： <a href="http://www.bubuko.com/infodetail-1919297.html" target="_blank" rel="noopener">http://www.bubuko.com/infodetail-1919297.html</a></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h1 id=&quot;环境一览&quot;&gt;&lt;a href=&quot;#环境一览&quot; class=&quot;headerlink&quot; title=&quot;环境一览&quot;&gt;&lt;/a&gt;环境一览&lt;/h1&gt;&lt;pre&gt;&lt;code&gt;- node + npm
-- yarn
-&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&quot;node-npm-安装&quot;&gt;
+        &lt;p&gt;在前端的世界里，node, npm, yarn可以说是撑起世界的世界树，而作为基石，学习需要三个过程：&lt;br&gt;1.了解&lt;br&gt;2.会安装，会用&lt;br&gt;3.会设置&lt;/p&gt;
+&lt;h2 id=&quot;node-npm&quot;&gt;&lt;a href=&quot;#node-npm&quot; class=&quot;headerl
       
     
     </summary>
